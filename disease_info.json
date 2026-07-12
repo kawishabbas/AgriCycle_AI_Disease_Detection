@@ -1,0 +1,839 @@
+{
+  "Bacterial Leaf Blight": {
+    "name": "Bacterial Leaf Blight",
+    "scientific_name": "Xanthomonas oryzae pv. oryzae",
+    "category": "Bacterial Disease",
+    "pathogen_type": "Bacteria",
+    "description": "Bacterial Leaf Blight (BLB) is one of the most destructive bacterial diseases affecting rice worldwide. It infects rice plants at all growth stages and is especially severe during warm, humid, and rainy conditions. The disease enters the plant through wounds or natural openings such as hydathodes and rapidly spreads through the vascular tissues, blocking water movement. As the infection progresses, leaves turn yellow, dry out, and eventually die. Severe infections can reduce grain yield by 20% to 80%, depending on the rice variety, environmental conditions, and stage of infection. Early diagnosis and proper field management are essential to minimize economic losses.",
+    "history": "Bacterial Leaf Blight was first reported in Japan in the late nineteenth century and has since become one of the most economically important rice diseases throughout Asia, including India, Bangladesh, China, Thailand, Vietnam, Indonesia, and the Philippines.",
+    "economic_importance": "The disease can cause significant reductions in grain yield, poor grain quality, and increased production costs due to repeated chemical applications.",
+    "cause": "Caused by the bacterium Xanthomonas oryzae pv. oryzae.",
+    "disease_cycle": "The bacteria survive in infected crop residues, volunteer rice plants, weeds, irrigation water, and infected seeds. Rain splashes, wind, irrigation water, and contaminated farm equipment spread the bacteria to healthy plants.",
+    "favorable_conditions": [
+      "High humidity",
+      "Frequent rainfall",
+      "Strong winds",
+      "Warm temperatures between 25°C and 34°C",
+      "Flooded fields",
+      "Excessive nitrogen fertilizer"
+    ],
+    "symptoms": [
+      "Yellow water-soaked streaks along leaf edges",
+      "Leaf tips become yellow",
+      "Leaves gradually dry from the tip downward",
+      "Milky bacterial ooze may appear in humid conditions",
+      "Wilting of young seedlings",
+      "Poor grain filling",
+      "Premature leaf death"
+    ],
+    "early_stage": [
+      "Small yellow streaks near leaf tips",
+      "Water-soaked lesions"
+    ],
+    "middle_stage": [
+      "Lesions extend along leaf veins",
+      "Leaves become pale yellow"
+    ],
+    "late_stage": [
+      "Entire leaf dries",
+      "Plant becomes weak",
+      "Yield decreases significantly"
+    ],
+    "affected_parts": [
+      "Leaf blade",
+      "Leaf tip",
+      "Leaf margin",
+      "Vascular tissue"
+    ],
+    "crop_stage": [
+      "Seedling",
+      "Tillering",
+      "Booting",
+      "Heading"
+    ],
+    "yield_loss": "20%–80%",
+    "risk_level": "High",
+    "immediate_action": [
+      "Remove severely infected plants",
+      "Reduce standing water",
+      "Avoid excess nitrogen fertilizer",
+      "Monitor nearby plants"
+    ],
+    "organic_treatment": [
+      "Neem leaf extract",
+      "Garlic extract",
+      "Compost tea",
+      "Bio-control bacteria"
+    ],
+    "chemical_treatment": [
+      "Copper Oxychloride",
+      "Kasugamycin",
+      "Streptocycline"
+    ],
+    "recommended_medicines": [
+      "Streptocycline",
+      "Copper Oxychloride",
+      "Kasugamycin",
+      "Plantomycin"
+    ],
+    "medicine_usage": [
+      "Spray Streptocycline at 0.1 g/L water.",
+      "Mix Copper Oxychloride according to manufacturer instructions.",
+      "Repeat every 7 to 10 days if symptoms continue."
+    ],
+    "dosage": [
+      "Streptocycline: 0.1 g/L",
+      "Copper Oxychloride: 2.5 g/L"
+    ],
+    "application_time": [
+      "Early morning",
+      "Late afternoon",
+      "Avoid spraying during rainfall"
+    ],
+    "prevention": [
+      "Use certified disease-free seeds",
+      "Grow resistant rice varieties",
+      "Avoid excessive nitrogen fertilizer",
+      "Maintain field sanitation",
+      "Remove infected crop residues",
+      "Maintain proper drainage"
+    ],
+    "field_management": [
+      "Practice crop rotation",
+      "Destroy infected residues",
+      "Control weeds",
+      "Improve irrigation management"
+    ],
+    "fertilizer_management": [
+      "Balanced NPK fertilization",
+      "Avoid excessive nitrogen"
+    ],
+    "expert_tips": [
+      "Early detection significantly reduces yield loss.",
+      "Inspect fields every week during rainy seasons.",
+      "Do not move infected plant material to healthy fields."
+    ],
+    "references": [
+      "International Rice Research Institute (IRRI)",
+      "FAO Rice Disease Management Guide"
+    ]
+  },
+
+  "Brown Spot": {
+    "name": "Brown Spot",
+    "scientific_name": "Bipolaris oryzae",
+    "category": "Fungal Disease",
+    "pathogen_type": "Fungus",
+    "description": "Brown Spot is one of the oldest known fungal diseases of rice. It attacks leaves, leaf sheaths, glumes, and grains. The disease commonly develops in nutrient-deficient soils and during periods of drought stress. Brown Spot reduces photosynthesis, weakens the plant, and lowers grain quality. Severe infections may reduce yields by 40% or more if not managed properly.",
+    "history": "Brown Spot gained worldwide attention after contributing to the Bengal Famine of 1943 by severely reducing rice production.",
+    "economic_importance": "The disease reduces both grain quantity and grain quality, leading to major economic losses in rice-producing regions.",
+    "cause": "Caused by the fungus Bipolaris oryzae.",
+    "disease_cycle": "The fungus survives on infected seeds, crop residues, and soil. Spores spread through wind and rain splash.",
+    "favorable_conditions": [
+      "High humidity",
+      "Temperatures between 25°C and 30°C",
+      "Nutrient-deficient soil",
+      "Drought stress"
+    ],
+    "symptoms": [
+      "Small brown circular lesions",
+      "Yellow halo around spots",
+      "Dark brown center",
+      "Leaf drying",
+      "Poor grain filling"
+    ],
+    "early_stage": [
+      "Tiny brown specks"
+    ],
+    "middle_stage": [
+      "Circular brown lesions enlarge"
+    ],
+    "late_stage": [
+      "Leaves dry prematurely",
+      "Reduced grain quality"
+    ],
+    "affected_parts": [
+      "Leaves",
+      "Leaf sheath",
+      "Grains",
+      "Glumes"
+    ],
+    "crop_stage": [
+      "Tillering",
+      "Booting",
+      "Grain filling"
+    ],
+    "yield_loss": "10%–45%",
+    "risk_level": "Medium",
+    "immediate_action": [
+      "Spray fungicide",
+      "Improve field nutrition",
+      "Monitor neighboring plants"
+    ],
+    "organic_treatment": [
+      "Neem oil",
+      "Compost tea",
+      "Trichoderma biofungicide"
+    ],
+    "chemical_treatment": [
+      "Mancozeb",
+      "Propiconazole",
+      "Carbendazim"
+    ],
+    "recommended_medicines": [
+      "Mancozeb",
+      "Propiconazole",
+      "Carbendazim",
+      "Azoxystrobin"
+    ],
+    "medicine_usage": [
+      "Spray at first appearance of symptoms.",
+      "Repeat every 10–14 days if needed."
+    ],
+    "dosage": [
+      "Mancozeb: 2–2.5 g/L",
+      "Propiconazole: 1 ml/L"
+    ],
+    "application_time": [
+      "Morning",
+      "Evening"
+    ],
+    "prevention": [
+      "Use healthy certified seeds",
+      "Apply balanced fertilizers",
+      "Avoid drought stress",
+      "Maintain proper field sanitation"
+    ],
+    "field_management": [
+      "Remove infected crop residues",
+      "Improve soil fertility",
+      "Maintain proper irrigation"
+    ],
+    "fertilizer_management": [
+      "Increase potassium application",
+      "Apply balanced NPK fertilizer"
+    ],
+    "expert_tips": [
+      "Brown Spot is commonly associated with nutrient deficiency.",
+      "Healthy soil significantly reduces disease severity."
+    ],
+    "references": [
+      "IRRI Rice Knowledge Bank",
+      "FAO Plant Disease Manual"
+    ]
+  },
+    "Healthy Rice Leaf": {
+    "name": "Healthy Rice Leaf",
+    "scientific_name": "Oryza sativa",
+    "category": "Healthy Plant",
+    "pathogen_type": "None",
+    "description": "The rice plant is healthy and free from visible symptoms of diseases or pest infestations. Healthy rice leaves are bright green, upright, smooth, and capable of efficient photosynthesis. Maintaining healthy plants through balanced fertilization, proper irrigation, and routine monitoring is essential for achieving maximum grain yield and quality. Although no disease is detected, continuous observation is recommended because environmental stress and pathogens can quickly affect plant health.",
+    "history": "Healthy rice plants indicate successful crop management practices and favorable environmental conditions.",
+    "economic_importance": "Healthy plants produce maximum grain yield, better grain quality, and higher farmer income.",
+    "cause": "No disease detected.",
+    "disease_cycle": "Not applicable.",
+    "favorable_conditions": [
+      "Balanced soil fertility",
+      "Proper irrigation",
+      "Adequate sunlight",
+      "Good air circulation",
+      "Healthy seed"
+    ],
+    "symptoms": [
+      "Bright green leaves",
+      "No spots",
+      "No lesions",
+      "No insect damage",
+      "Normal plant growth",
+      "Strong stems"
+    ],
+    "early_stage": [
+      "Healthy green seedlings"
+    ],
+    "middle_stage": [
+      "Uniform green canopy"
+    ],
+    "late_stage": [
+      "Normal grain development"
+    ],
+    "affected_parts": [
+      "None"
+    ],
+    "crop_stage": [
+      "All growth stages"
+    ],
+    "yield_loss": "0%",
+    "risk_level": "None",
+    "immediate_action": [
+      "Continue normal crop management.",
+      "Monitor the field weekly."
+    ],
+    "organic_treatment": [],
+    "chemical_treatment": [],
+    "recommended_medicines": [],
+    "medicine_usage": [],
+    "dosage": [],
+    "application_time": [],
+    "prevention": [
+      "Use certified seeds",
+      "Balanced fertilizer application",
+      "Proper irrigation",
+      "Regular scouting",
+      "Maintain field sanitation"
+    ],
+    "field_management": [
+      "Remove weeds",
+      "Maintain water level",
+      "Monitor pests regularly"
+    ],
+    "fertilizer_management": [
+      "Apply balanced NPK fertilizer",
+      "Avoid excessive nitrogen"
+    ],
+    "expert_tips": [
+      "Healthy plants should still be inspected weekly.",
+      "Preventive management is always better than curative treatment."
+    ],
+    "references": [
+      "International Rice Research Institute (IRRI)",
+      "FAO Rice Production Guide"
+    ]
+  },
+
+  "Leaf Blast": {
+    "name": "Leaf Blast",
+    "scientific_name": "Magnaporthe oryzae",
+    "category": "Fungal Disease",
+    "pathogen_type": "Fungus",
+    "description": "Leaf Blast is one of the most devastating fungal diseases of rice worldwide. It attacks leaves, nodes, collars, and panicles. Under favorable conditions, especially high humidity and frequent rainfall, the fungus spreads rapidly through airborne spores. Initial infections begin as small gray-green lesions that later develop into characteristic diamond-shaped spots with gray centers and brown margins. Severe infections reduce photosynthesis, weaken plants, and significantly reduce grain production. Without proper management, Leaf Blast can destroy large areas of rice fields within a short period.",
+    "history": "Leaf Blast has been recognized for over 300 years and remains one of the most economically important rice diseases worldwide.",
+    "economic_importance": "Yield losses range from 10% to over 80% depending on the severity of infection and environmental conditions.",
+    "cause": "Caused by the fungus Magnaporthe oryzae.",
+    "disease_cycle": "The fungus survives on infected crop residues, volunteer rice plants, weeds, and seeds. Airborne spores spread rapidly during humid weather and infect healthy leaves through moisture on the leaf surface.",
+    "favorable_conditions": [
+      "Relative humidity above 90%",
+      "Frequent rainfall",
+      "Temperatures between 24°C and 28°C",
+      "Cloudy weather",
+      "Excessive nitrogen fertilizer"
+    ],
+    "symptoms": [
+      "Diamond-shaped lesions",
+      "Gray center with brown border",
+      "Leaf drying",
+      "Collar infection",
+      "Node infection",
+      "Poor grain filling"
+    ],
+    "early_stage": [
+      "Small gray-green spots",
+      "Water-soaked lesions"
+    ],
+    "middle_stage": [
+      "Diamond-shaped lesions enlarge",
+      "Brown lesion margins become visible"
+    ],
+    "late_stage": [
+      "Leaves dry completely",
+      "Panicle blast develops",
+      "Reduced grain filling"
+    ],
+    "affected_parts": [
+      "Leaves",
+      "Leaf collar",
+      "Stem nodes",
+      "Panicles"
+    ],
+    "crop_stage": [
+      "Seedling",
+      "Tillering",
+      "Booting",
+      "Heading",
+      "Grain filling"
+    ],
+    "yield_loss": "10%–80%",
+    "risk_level": "High",
+    "immediate_action": [
+      "Apply fungicide immediately.",
+      "Reduce nitrogen fertilizer.",
+      "Remove severely infected plants."
+    ],
+    "organic_treatment": [
+      "Neem oil spray",
+      "Trichoderma biofungicide",
+      "Compost tea"
+    ],
+    "chemical_treatment": [
+      "Tricyclazole",
+      "Azoxystrobin",
+      "Isoprothiolane",
+      "Propiconazole"
+    ],
+    "recommended_medicines": [
+      "Tricyclazole",
+      "Azoxystrobin",
+      "Isoprothiolane",
+      "Propiconazole",
+      "Hexaconazole"
+    ],
+    "medicine_usage": [
+      "Apply fungicide immediately after the first symptoms appear.",
+      "Repeat every 10 to 14 days if necessary."
+    ],
+    "dosage": [
+      "Tricyclazole: 0.6 g/L",
+      "Azoxystrobin: 1 ml/L",
+      "Propiconazole: 1 ml/L"
+    ],
+    "application_time": [
+      "Early morning",
+      "Late afternoon",
+      "Do not spray during rainfall"
+    ],
+    "prevention": [
+      "Use resistant rice varieties",
+      "Avoid excessive nitrogen fertilizer",
+      "Maintain proper plant spacing",
+      "Use certified seeds",
+      "Destroy infected crop residues"
+    ],
+    "field_management": [
+      "Maintain good drainage",
+      "Improve air circulation",
+      "Monitor fields every week"
+    ],
+    "fertilizer_management": [
+      "Balanced NPK application",
+      "Split nitrogen applications"
+    ],
+    "expert_tips": [
+      "Leaf Blast spreads rapidly during humid weather.",
+      "Early fungicide application is the most effective control strategy.",
+      "Weekly field inspection can prevent severe outbreaks."
+    ],
+    "references": [
+      "International Rice Research Institute (IRRI)",
+      "FAO Rice Disease Management Manual",
+      "PlantVillage Knowledge Base"
+    ]
+  },
+    "Leaf Scald": {
+    "name": "Leaf Scald",
+    "scientific_name": "Microdochium oryzae",
+    "category": "Fungal Disease",
+    "pathogen_type": "Fungus",
+    "description": "Leaf Scald is a fungal disease that affects rice leaves, reducing photosynthesis and weakening plant growth. The disease begins as small water-soaked lesions near the leaf tip or edge. These lesions enlarge into irregular grayish-white or straw-colored patches surrounded by dark brown margins, giving the leaf a scorched appearance. Under warm and humid conditions, the fungus spreads rapidly through rain splash and wind. Although Leaf Scald is generally less destructive than Rice Blast, severe infections can reduce grain filling, lower grain quality, and decrease overall yield.",
+    "history": "Leaf Scald has been reported in rice-growing countries throughout Asia, Africa, and South America. It is more common in fields with poor drainage and high humidity.",
+    "economic_importance": "Yield losses usually range from 5% to 25%, but severe outbreaks can cause higher losses when environmental conditions remain favorable.",
+    "cause": "Caused by the fungus Microdochium oryzae.",
+    "disease_cycle": "The fungus survives in infected crop residues and infected seeds. Spores spread through rain splash, irrigation water, and wind.",
+    "favorable_conditions": [
+      "High humidity",
+      "Frequent rainfall",
+      "Warm temperatures (25°C–30°C)",
+      "Poor field drainage",
+      "Dense planting"
+    ],
+    "symptoms": [
+      "Gray lesions",
+      "Scorched leaf appearance",
+      "Brown lesion margins",
+      "Leaf drying",
+      "Reduced photosynthesis"
+    ],
+    "early_stage": [
+      "Small water-soaked spots",
+      "Light green lesions"
+    ],
+    "middle_stage": [
+      "Gray irregular lesions",
+      "Brown borders"
+    ],
+    "late_stage": [
+      "Entire leaf becomes scorched",
+      "Premature leaf death"
+    ],
+    "affected_parts": [
+      "Leaf blade",
+      "Leaf tip",
+      "Leaf margin"
+    ],
+    "crop_stage": [
+      "Tillering",
+      "Booting",
+      "Heading"
+    ],
+    "yield_loss": "5%–25%",
+    "risk_level": "Medium",
+    "immediate_action": [
+      "Apply fungicide immediately.",
+      "Remove infected leaves.",
+      "Improve field drainage."
+    ],
+    "organic_treatment": [
+      "Neem oil",
+      "Trichoderma biofungicide",
+      "Compost tea"
+    ],
+    "chemical_treatment": [
+      "Propiconazole",
+      "Hexaconazole",
+      "Carbendazim"
+    ],
+    "recommended_medicines": [
+      "Propiconazole",
+      "Hexaconazole",
+      "Carbendazim",
+      "Mancozeb"
+    ],
+    "medicine_usage": [
+      "Spray fungicide immediately after symptoms appear.",
+      "Repeat every 10–14 days if required."
+    ],
+    "dosage": [
+      "Propiconazole: 1 ml/L",
+      "Hexaconazole: 1 ml/L",
+      "Mancozeb: 2.5 g/L"
+    ],
+    "application_time": [
+      "Early morning",
+      "Late afternoon"
+    ],
+    "prevention": [
+      "Use certified seeds",
+      "Improve field sanitation",
+      "Avoid waterlogging",
+      "Maintain proper spacing"
+    ],
+    "field_management": [
+      "Destroy infected crop residues",
+      "Maintain good drainage",
+      "Reduce excessive irrigation"
+    ],
+    "fertilizer_management": [
+      "Balanced NPK fertilizer",
+      "Avoid excess nitrogen"
+    ],
+    "expert_tips": [
+      "Early detection prevents disease spread.",
+      "Regular scouting is recommended during rainy weather."
+    ],
+    "references": [
+      "IRRI Rice Knowledge Bank",
+      "FAO Rice Disease Guide"
+    ]
+  },
+
+  "Narrow Brown Leaf Spot": {
+    "name": "Narrow Brown Leaf Spot",
+    "scientific_name": "Cercospora janseana",
+    "category": "Fungal Disease",
+    "pathogen_type": "Fungus",
+    "description": "Narrow Brown Leaf Spot is a fungal disease characterized by long, narrow, dark brown streaks on rice leaves. The disease mainly affects older leaves but may spread throughout the canopy under humid conditions. Severe infections reduce photosynthesis, weaken plant growth, and lower grain yield. Although often confused with Brown Spot, the lesions are much narrower and elongated.",
+    "history": "The disease is commonly reported in tropical and subtropical rice-growing regions where humidity remains high for extended periods.",
+    "economic_importance": "Yield losses generally range from 5% to 30% depending on disease severity and environmental conditions.",
+    "cause": "Caused by the fungus Cercospora janseana.",
+    "disease_cycle": "The fungus survives on infected crop debris and seeds. Spores are spread by wind, rain splash, and irrigation water.",
+    "favorable_conditions": [
+      "High humidity",
+      "Warm temperatures",
+      "Continuous rainfall",
+      "Poor air circulation"
+    ],
+    "symptoms": [
+      "Long narrow brown streaks",
+      "Dark brown lesions",
+      "Yellowing leaves",
+      "Reduced photosynthesis"
+    ],
+    "early_stage": [
+      "Thin brown streaks"
+    ],
+    "middle_stage": [
+      "Lesions become longer",
+      "Leaf yellowing"
+    ],
+    "late_stage": [
+      "Entire leaves dry",
+      "Reduced grain filling"
+    ],
+    "affected_parts": [
+      "Leaves",
+      "Leaf sheath"
+    ],
+    "crop_stage": [
+      "Tillering",
+      "Booting",
+      "Heading"
+    ],
+    "yield_loss": "5%–30%",
+    "risk_level": "Medium",
+    "immediate_action": [
+      "Apply fungicide.",
+      "Remove infected leaves."
+    ],
+    "organic_treatment": [
+      "Neem extract",
+      "Trichoderma"
+    ],
+    "chemical_treatment": [
+      "Mancozeb",
+      "Carbendazim",
+      "Propiconazole"
+    ],
+    "recommended_medicines": [
+      "Mancozeb",
+      "Carbendazim",
+      "Propiconazole"
+    ],
+    "medicine_usage": [
+      "Spray every 10–14 days until disease is controlled."
+    ],
+    "dosage": [
+      "Mancozeb: 2.5 g/L",
+      "Carbendazim: 1 g/L"
+    ],
+    "application_time": [
+      "Morning",
+      "Evening"
+    ],
+    "prevention": [
+      "Balanced fertilization",
+      "Use disease-free seeds",
+      "Crop rotation",
+      "Field sanitation"
+    ],
+    "field_management": [
+      "Destroy infected residues",
+      "Improve field ventilation"
+    ],
+    "fertilizer_management": [
+      "Balanced NPK application",
+      "Increase potassium if deficient"
+    ],
+    "expert_tips": [
+      "Scout fields every week during humid weather.",
+      "Treat early to prevent spread."
+    ],
+    "references": [
+      "IRRI Rice Knowledge Bank",
+      "FAO Plant Disease Manual"
+    ]
+  },
+    "Rice Hispa": {
+    "name": "Rice Hispa",
+    "scientific_name": "Dicladispa armigera",
+    "category": "Insect Pest",
+    "pathogen_type": "Insect",
+    "description": "Rice Hispa is one of the most destructive insect pests of rice. Both adults and larvae feed on rice leaves, reducing the green leaf area available for photosynthesis. Adult beetles scrape the upper surface of leaves, creating long white streaks, while larvae mine inside the leaf tissue. Severe infestations weaken plants, delay growth, reduce tillering, and ultimately decrease grain yield. Outbreaks are more common during warm and humid weather and in poorly managed rice fields.",
+    "history": "Rice Hispa has been reported throughout South and Southeast Asia and remains an important insect pest in rice-growing regions.",
+    "economic_importance": "Heavy infestations can reduce grain yield by 20–50% depending on crop stage and severity.",
+    "cause": "Infestation by Dicladispa armigera.",
+    "life_cycle": "Adult females lay eggs inside leaf tissue. Larvae feed by mining inside leaves before pupating. Adults emerge and continue feeding on leaf surfaces.",
+    "favorable_conditions": [
+      "Warm temperatures",
+      "High humidity",
+      "Dense planting",
+      "Weedy rice fields",
+      "Poor field sanitation"
+    ],
+    "symptoms": [
+      "White longitudinal scraping marks",
+      "Leaf mining",
+      "Reduced photosynthesis",
+      "Yellowing leaves",
+      "Poor tillering",
+      "Stunted plant growth"
+    ],
+    "early_stage": [
+      "White scrape marks on leaves"
+    ],
+    "middle_stage": [
+      "Leaf mining by larvae",
+      "Yellowing foliage"
+    ],
+    "late_stage": [
+      "Dry damaged leaves",
+      "Reduced grain production"
+    ],
+    "affected_parts": [
+      "Leaves",
+      "Leaf blade"
+    ],
+    "crop_stage": [
+      "Seedling",
+      "Tillering",
+      "Vegetative stage"
+    ],
+    "yield_loss": "20%–50%",
+    "risk_level": "Medium",
+    "immediate_action": [
+      "Remove heavily damaged leaves.",
+      "Apply recommended insecticide immediately.",
+      "Monitor neighboring fields."
+    ],
+    "organic_treatment": [
+      "Neem oil spray",
+      "Neem seed kernel extract",
+      "Release natural predators"
+    ],
+    "chemical_treatment": [
+      "Imidacloprid",
+      "Chlorpyrifos",
+      "Lambda-Cyhalothrin"
+    ],
+    "recommended_medicines": [
+      "Imidacloprid",
+      "Chlorpyrifos",
+      "Lambda-Cyhalothrin",
+      "Fipronil"
+    ],
+    "medicine_usage": [
+      "Spray according to manufacturer recommendations.",
+      "Repeat after 10–14 days if infestation persists."
+    ],
+    "dosage": [
+      "Imidacloprid: 0.5 ml/L",
+      "Lambda-Cyhalothrin: 1 ml/L"
+    ],
+    "application_time": [
+      "Morning",
+      "Late afternoon"
+    ],
+    "prevention": [
+      "Maintain clean fields",
+      "Destroy weeds",
+      "Monitor insect populations weekly",
+      "Avoid excessive nitrogen fertilizer"
+    ],
+    "field_management": [
+      "Remove volunteer rice plants",
+      "Maintain proper spacing",
+      "Encourage natural predators"
+    ],
+    "fertilizer_management": [
+      "Balanced NPK fertilizer",
+      "Avoid excess nitrogen"
+    ],
+    "expert_tips": [
+      "Inspect young rice plants regularly.",
+      "Early insecticide application prevents severe outbreaks."
+    ],
+    "references": [
+      "IRRI Rice Knowledge Bank",
+      "FAO Integrated Pest Management Guide"
+    ]
+  },
+
+  "Sheath Blight": {
+    "name": "Sheath Blight",
+    "scientific_name": "Rhizoctonia solani",
+    "category": "Fungal Disease",
+    "pathogen_type": "Fungus",
+    "description": "Sheath Blight is one of the most important fungal diseases of rice. It attacks the leaf sheath, leaves, and stems near the water level. The disease begins as small green-gray lesions that enlarge into oval lesions with brown borders. Under humid conditions, the fungus spreads rapidly from plant to plant through direct contact. Severe infections weaken stems, reduce grain filling, increase lodging, and significantly decrease yield. Dense planting and excessive nitrogen fertilizer greatly increase disease severity.",
+    "history": "Sheath Blight has become increasingly important with the adoption of high-yielding rice varieties and intensive fertilizer use.",
+    "economic_importance": "Yield losses typically range from 10% to 50%, but severe epidemics may cause even greater losses.",
+    "cause": "Caused by the fungus Rhizoctonia solani.",
+    "disease_cycle": "The fungus survives in soil and infected crop residues as sclerotia. Under warm, humid conditions it infects lower leaf sheaths and spreads upward through plant contact.",
+    "favorable_conditions": [
+      "High humidity",
+      "Dense planting",
+      "Warm temperatures (28–32°C)",
+      "Excess nitrogen fertilizer",
+      "Continuous flooding"
+    ],
+    "symptoms": [
+      "Oval green-gray lesions",
+      "Brown lesion margins",
+      "Leaf sheath infection",
+      "Stem weakening",
+      "Lodging",
+      "Reduced grain filling"
+    ],
+    "early_stage": [
+      "Small green-gray lesions near water level"
+    ],
+    "middle_stage": [
+      "Oval lesions enlarge",
+      "Leaf sheath turns brown"
+    ],
+    "late_stage": [
+      "Entire sheath infected",
+      "Stem lodging",
+      "Poor grain filling"
+    ],
+    "affected_parts": [
+      "Leaf sheath",
+      "Leaves",
+      "Stem"
+    ],
+    "crop_stage": [
+      "Tillering",
+      "Booting",
+      "Heading",
+      "Grain filling"
+    ],
+    "yield_loss": "10%–50%",
+    "risk_level": "High",
+    "immediate_action": [
+      "Apply fungicide immediately.",
+      "Reduce excessive irrigation.",
+      "Reduce nitrogen application."
+    ],
+    "organic_treatment": [
+      "Trichoderma biofungicide",
+      "Compost tea"
+    ],
+    "chemical_treatment": [
+      "Validamycin",
+      "Hexaconazole",
+      "Propiconazole",
+      "Azoxystrobin"
+    ],
+    "recommended_medicines": [
+      "Validamycin",
+      "Hexaconazole",
+      "Propiconazole",
+      "Azoxystrobin"
+    ],
+    "medicine_usage": [
+      "Spray immediately after disease detection.",
+      "Repeat after 10–14 days if necessary."
+    ],
+    "dosage": [
+      "Validamycin: 2 ml/L",
+      "Hexaconazole: 1 ml/L",
+      "Propiconazole: 1 ml/L"
+    ],
+    "application_time": [
+      "Morning",
+      "Evening"
+    ],
+    "prevention": [
+      "Avoid dense planting",
+      "Use resistant rice varieties",
+      "Maintain field sanitation",
+      "Avoid excess nitrogen fertilizer",
+      "Improve air circulation"
+    ],
+    "field_management": [
+      "Destroy infected residues",
+      "Practice crop rotation",
+      "Maintain proper spacing"
+    ],
+    "fertilizer_management": [
+      "Balanced NPK fertilizer",
+      "Split nitrogen application"
+    ],
+    "expert_tips": [
+      "Inspect lower leaf sheaths weekly.",
+      "Maintain good airflow within the crop canopy.",
+      "Early fungicide application provides the best control."
+    ],
+    "references": [
+      "International Rice Research Institute (IRRI)",
+      "FAO Rice Disease Manual",
+      "PlantVillage Knowledge Base"
+    ]
+  }
+}
